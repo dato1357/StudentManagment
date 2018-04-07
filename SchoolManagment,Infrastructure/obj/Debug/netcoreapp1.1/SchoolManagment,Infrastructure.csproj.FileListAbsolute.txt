@@ -1,0 +1,9 @@
+C:\Users\dato\documents\visual studio 2017\Projects\SchoolManagment\SchoolManagment,Infrastructure\bin\Debug\netcoreapp1.1\SchoolManagment,Infrastructure.deps.json
+C:\Users\dato\documents\visual studio 2017\Projects\SchoolManagment\SchoolManagment,Infrastructure\bin\Debug\netcoreapp1.1\SchoolManagment,Infrastructure.dll
+C:\Users\dato\documents\visual studio 2017\Projects\SchoolManagment\SchoolManagment,Infrastructure\bin\Debug\netcoreapp1.1\SchoolManagment,Infrastructure.pdb
+C:\Users\dato\documents\visual studio 2017\Projects\SchoolManagment\SchoolManagment,Infrastructure\bin\Debug\netcoreapp1.1\SchoolManagment.Domain.dll
+C:\Users\dato\documents\visual studio 2017\Projects\SchoolManagment\SchoolManagment,Infrastructure\bin\Debug\netcoreapp1.1\SchoolManagment.Domain.pdb
+C:\Users\dato\documents\visual studio 2017\Projects\SchoolManagment\SchoolManagment,Infrastructure\obj\Debug\netcoreapp1.1\SchoolManagment,Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\dato\documents\visual studio 2017\Projects\SchoolManagment\SchoolManagment,Infrastructure\obj\Debug\netcoreapp1.1\SchoolManagment,Infrastructure.AssemblyInfo.cs
+C:\Users\dato\documents\visual studio 2017\Projects\SchoolManagment\SchoolManagment,Infrastructure\obj\Debug\netcoreapp1.1\SchoolManagment,Infrastructure.dll
+C:\Users\dato\documents\visual studio 2017\Projects\SchoolManagment\SchoolManagment,Infrastructure\obj\Debug\netcoreapp1.1\SchoolManagment,Infrastructure.pdb

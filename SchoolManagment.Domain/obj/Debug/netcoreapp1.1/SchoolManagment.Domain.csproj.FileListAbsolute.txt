@@ -1,0 +1,7 @@
+C:\Users\dato\documents\visual studio 2017\Projects\SchoolManagment\SchoolManagment.Domain\bin\Debug\netcoreapp1.1\SchoolManagment.Domain.deps.json
+C:\Users\dato\documents\visual studio 2017\Projects\SchoolManagment\SchoolManagment.Domain\bin\Debug\netcoreapp1.1\SchoolManagment.Domain.dll
+C:\Users\dato\documents\visual studio 2017\Projects\SchoolManagment\SchoolManagment.Domain\bin\Debug\netcoreapp1.1\SchoolManagment.Domain.pdb
+C:\Users\dato\documents\visual studio 2017\Projects\SchoolManagment\SchoolManagment.Domain\obj\Debug\netcoreapp1.1\SchoolManagment.Domain.csprojResolveAssemblyReference.cache
+C:\Users\dato\documents\visual studio 2017\Projects\SchoolManagment\SchoolManagment.Domain\obj\Debug\netcoreapp1.1\SchoolManagment.Domain.AssemblyInfo.cs
+C:\Users\dato\documents\visual studio 2017\Projects\SchoolManagment\SchoolManagment.Domain\obj\Debug\netcoreapp1.1\SchoolManagment.Domain.dll
+C:\Users\dato\documents\visual studio 2017\Projects\SchoolManagment\SchoolManagment.Domain\obj\Debug\netcoreapp1.1\SchoolManagment.Domain.pdb
